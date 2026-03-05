@@ -317,5 +317,6 @@ Temporary parameters exist only during adaptation
 Discarded after merging
 ```
 
-Medium article : []
-Paper : [https://arxiv.org/abs/2602.06043](Link)
+Medium article : [Link](https://medium.com/@apurv.pujari1/what-if-ai-could-learn-like-humans-continuously-without-ever-forgetting-well-almost-2571b47b21d5)
+
+Paper : [Link](https://arxiv.org/abs/2602.06043)
